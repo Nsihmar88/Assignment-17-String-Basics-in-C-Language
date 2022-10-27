@@ -14,6 +14,6 @@ int main ()
     
     for (i = 0; Str_arr[i]; i++);
    
-    printf("\nLength of string is: %d \n ",i);
+    printf("\nLength of string is: %d \n ",i-1);
     return 0;
 }
